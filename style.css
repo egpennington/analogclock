@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
 
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -62,7 +62,7 @@ body{
     content: '';
     width: 10px;
     height: 10px;
-    background-color: #2e94e3;
+    background-color: #003478;
     border-radius: 50%;
     position: absolute;
 }

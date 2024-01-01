@@ -1,4 +1,4 @@
-function show_clock(){
+function showClock(){
     let h = document.getElementsByClassName('hr')[0]
     let m = document.getElementsByClassName('mn')[0]
     let s = document.getElementsByClassName('ss')[0]
@@ -27,4 +27,4 @@ function show_clock(){
     sound.play();
 }
 
-setInterval(show_clock, 1000);
+setInterval(showClock, 1000);
